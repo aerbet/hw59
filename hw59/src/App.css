@@ -1,0 +1,16 @@
+button {
+    margin: 10px;
+}
+
+.input {
+    display: inline-block;
+    width: 300px;
+    height: 30px;
+    border-radius: 5px;
+}
+
+.space {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
